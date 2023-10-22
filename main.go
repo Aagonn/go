@@ -2,7 +2,7 @@ package main
 
 /*
 //.................................DEĞİŞKENLER VE VERİ TİPLERİ........................\\
-// DEĞŞKENLER:
+
 func main() {
 	fmt.Print("merhaba ")
 	fmt.Print("dünya ")
@@ -13,7 +13,7 @@ func main() {
 	var metin string = "merhaba türkiye!" // "string" metin için kullanılır.
 	fmt.Println(metin)
 }
-//VERİ TİPLERİ:
+
 func main() {
 	var kdv int = 18 // "int" tam sayılar için kullanılır
 	fmt.Println(kdv)
